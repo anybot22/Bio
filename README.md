@@ -30,7 +30,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/zenithu-s/zenithu/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/zenithu-s/zenithu-s/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
@@ -41,4 +41,4 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=zenithu-s&theme=transparent)](https://git.io/streak-stats)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Satisfy&pause=1000&color=F77C22&random=false&width=500&height=100&lines=Byeee)](https://git.io/typing-svg)
+<h2 align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Satisfy&pause=1000&color=F77C22&random=false&width=500&height=100&lines=Byeee)](https://git.io/typing-svg) </h2>
