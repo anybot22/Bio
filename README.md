@@ -38,10 +38,7 @@
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=zenithu-s&theme=transparent)](https://git.io/streak-stats)
-
-<br/><br/>
-
-<hr/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Satisfy&pause=1000&color=F77C22&random=false&width=500&height=100&lines=Byeee)](https://git.io/typing-svg)
