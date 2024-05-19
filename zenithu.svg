@@ -60,7 +60,7 @@
       margin: 0;
     }
   </style>
-  <symbol id="s-text"><text text-anchor="middle" x="50%" y="50%" dy=".35em">Zenithu :)</text></symbol>
+  <symbol id="s-text"><text text-anchor="middle" x="50%" y="50%" dy=".35em">Zenithu</text></symbol>
   <use class="text" href="#s-text"></use>
   <use class="text" href="#s-text"></use>
   <use class="text" href="#s-text"></use>
