@@ -7,8 +7,8 @@
 <!-- Visitor Counter -->
 <img src="https://komarev.com/ghpvc/?username=zenithu-s&color=3aa1bf&style=for-the-badge&label=HELLO+VISITOR" width=110>
 
-<p>I'm zenithu, a computer science engineering student. As a learner and a tech enthusiast, I am always curious about new technology. I have a very practical learning approach. It helps me solve problems and build logic. Creating stuff that solves real-life problems and automates tedious tasks is what I like to do.</p>
-<p>Looking forward to collaborating on innovative projects 🔥.</p>
+<p>I'm zenithu, still learning computer science. As a learner and a tech enthusiast, I am always curious about new technology.Creating stuff that solves real-life problems and automates tedious tasks is what I like to do.</p>
+<p>Looking forward to collaborating on innovative projects 🔥</p>
 
 <br>
 
@@ -28,17 +28,15 @@
 <br>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/zenithu-s/zenithu-s/output/github-contribution-grid-snake.svg" />
-  
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
   <br/><br/><br/>
 </div>
-
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=zenithu-s&theme=transparent)](https://git.io/streak-stats)
 
-<h2 align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Satisfy&pause=1000&color=F77C22&random=false&width=500&height=100&lines=Byeee)](https://git.io/typing-svg) </h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Satisfy&pause=1000&color=F77C22&random=false&width=500&height=100&lines=Byeee)](https://git.io/typing-svg)
